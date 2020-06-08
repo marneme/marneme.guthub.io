@@ -1,2 +1,2 @@
-# marneme.guthub.io
+# marneme.github.io
 demo page
